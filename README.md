@@ -16,7 +16,6 @@
       </div>
       <span class="fa fa-bars menu-icon"></span>
       <div class="header-right">
-        <a href="#">レッスン</a>
         <a href="#">新規登録</a>
         <a href="#" class="login">ログイン</a>
       </div>
@@ -24,12 +23,11 @@
   </header>
   <div class="top-wrapper">
     <div class="container">
-      <h1>LEARN TO CODE.<br>LEARN TO BE CREATIVE.</h1>
-      <p>Progateはオンラインプログラミング学習サービスです。<br>初心者にもやさしいスライドとレッスンで、ウェブサービスを作りながらプログラミングを学んでいきましょう。</p>
+      <h1>効果音嗜好分析サイト<br>（仮）</h1>
+      <p>効果音嗜好分析サイト（仮）は、一人ひとりの嗜好に基づく効果音の推薦を行うサイトです。<br>動画編集などに使用する効果音をあなた好みに。</p>
       <div class="btn-wrapper">
         <a href="#" class="btn signup">新規登録はこちら</a>
         <p>or</p>
-        <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebookで登録</a>
         <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Twitterで登録</a>
       </div>
     </div>
